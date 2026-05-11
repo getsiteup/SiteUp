@@ -52,7 +52,7 @@ export function LandingPage() {
               <span>(425)-633-9512</span>
             </a>
             <a
-              href="mailto:Ben@siteup.com"
+              href="mailto:Ben@getsiteup.com"
               className="inline-flex items-center gap-1.5 text-xs text-neutral-500 transition hover:text-neutral-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400/60 focus-visible:ring-offset-2 focus-visible:ring-offset-neutral-950"
             >
               <span className="text-neutral-600" aria-hidden>
@@ -64,7 +64,7 @@ export function LandingPage() {
                   />
                 </svg>
               </span>
-              <span>Ben@siteup.com</span>
+              <span>Ben@getsiteup.com</span>
             </a>
           </ScrollRevealItem>
           <ScrollRevealItem index={1}>
